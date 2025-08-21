@@ -45,7 +45,7 @@ def revert_to_win11_style():
 
 def open_github():
     """打开GitHub项目页面"""
-    webbrowser.open("https://github.com/LanXiYaa/win11right-click")
+    webbrowser.open("https://github.com/LanXiYaa/win10-right-click")
 
 def restart_explorer():
     """重启资源管理器"""
@@ -130,4 +130,5 @@ def main():
     root.mainloop()
 
 if __name__ == "__main__":
+
     main()
